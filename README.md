@@ -1,3 +1,6 @@
+
+![maru](images/maru.png)
+
 ## Requirements:
 
 - [PRAW](https://praw.readthedocs.io/en/latest/) Reddit API wrapper
@@ -20,6 +23,5 @@ curl https://api.groupme.com/v3/groups?token=$token
 ## Reddit Auth token
 
 - https://praw.readthedocs.io/en/latest/getting_started/authentication.html
-
 
 - https://www.reddit.com/prefs/apps/
